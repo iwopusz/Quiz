@@ -1,4 +1,4 @@
-# quiz
+# Quiz
 Quiz project with web interface.
 
 Technologies used:
